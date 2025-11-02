@@ -17,7 +17,8 @@ public class SecurityConfig {
         http
                 .csrf(csrf -> csrf.disable()) // disable CSRF
                 .authorizeHttpRequests(auth -> auth
-                        .requestMatchers("/api/auth/**").permitAll()   // allow register/login
+                        .requestMatchers("/api/auth/register", "/api/auth/login").permitAll()   // allow register/login without auth
+                        .requestMatchers("/api/auth/me").authenticated()   // require JWT for /me endpoint
                         .requestMatchers("/api/messages/**").authenticated() // need JWT
                         .anyRequest().denyAll()
                 )

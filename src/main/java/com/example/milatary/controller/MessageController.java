@@ -110,4 +110,57 @@ public class MessageController {
         messageRepository.delete(m);
         return ResponseEntity.ok(Map.of("deleted", true));
     }
+    @PostMapping("/decrypt")
+    public ResponseEntity<?> decrypt(@RequestHeader("Authorization") String auth,
+                                     @RequestBody Map<String, String> body) {
+        try {
+            String userIdStr = JwtUtil.getUserIdFromAuthHeader(auth);
+            if (userIdStr == null) return ResponseEntity.status(401).body("invalid token");
+            UUID userId = UUID.fromString(userIdStr);
+
+            String messageId = body.get("messageId");
+            String password = body.get("password");
+
+            if (messageId == null || password == null) {
+                return ResponseEntity.badRequest().body("messageId and password required");
+            }
+
+            // Fetch user
+            var userOpt = userRepository.findById(userId);
+            if (userOpt.isEmpty()) return ResponseEntity.status(404).body("user not found");
+            User user = userOpt.get();
+
+            // Fetch message
+            UUID msgId = UUID.fromString(messageId);
+            var msgOpt = messageRepository.findById(msgId);
+            if (msgOpt.isEmpty()) return ResponseEntity.notFound().build();
+            MessageEntity msg = msgOpt.get();
+
+            if (!msg.getRecipientId().equals(userId)) {
+                return ResponseEntity.status(403).body("not your message");
+            }
+
+            // Decrypt using MessageDecryptor
+            String encryptedPrivKey = Base64.getEncoder().encodeToString(user.getEncryptedPrivateKey());
+            String encryptedAesKey = Base64.getEncoder().encodeToString(msg.getEncryptedAesKey());
+            String cipherText = Base64.getEncoder().encodeToString(msg.getCipherText());
+
+            String plaintext = com.example.milatary.security.MessageDecryptor.decryptMessage(
+                    encryptedPrivKey,
+                    password,
+                    encryptedAesKey,
+                    cipherText
+            );
+
+            return ResponseEntity.ok(Map.of(
+                    "messageId", msg.getId().toString(),
+                    "senderId", msg.getSenderId().toString(),
+                    "plaintext", plaintext,
+                    "decryptedAt", Instant.now().toString()
+            ));
+
+        } catch (Exception e) {
+            return ResponseEntity.status(500).body("Decryption failed: " + e.getMessage());
+        }
+    }
 }

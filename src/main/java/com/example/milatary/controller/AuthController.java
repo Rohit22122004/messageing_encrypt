@@ -1,8 +1,5 @@
 package com.example.milatary.controller;
 
-
-
-
 import com.example.milatary.model.User;
 import com.example.milatary.repository.UserRepository;
 import com.example.milatary.security.CryptoUtils;
@@ -15,7 +12,9 @@ import org.springframework.http.ResponseEntity;
 import javax.crypto.SecretKey;
 import java.security.KeyPair;
 import java.security.SecureRandom;
+import java.util.Base64;
 import java.util.Map;
+import java.util.UUID;
 
 @RestController
 @RequestMapping("/api/auth")
@@ -43,6 +42,14 @@ public class AuthController {
         byte[] publicKeyBytes = CryptoUtils.publicKeyToBytes(keyPair.getPublic());
         byte[] privateKeyBytes = keyPair.getPrivate().getEncoded();
 
+        // 🧾 Print keys on console (for testing only)
+        System.out.println("🔐 ====== RSA KEYS GENERATED FOR USER: " + username + " ======");
+        System.out.println("PUBLIC KEY (Base64):");
+        System.out.println(CryptoUtils.encodeKeyToBase64(keyPair.getPublic()));
+        System.out.println("\nPRIVATE KEY (Base64):");
+        System.out.println(CryptoUtils.encodeKeyToBase64(keyPair.getPrivate()));
+        System.out.println("=============================================================\n");
+
         // 2️⃣ Derive AES key from password using PBKDF2 (with salt)
         byte[] salt = new byte[16];
         SecureRandom.getInstanceStrong().nextBytes(salt);
@@ -59,7 +66,7 @@ public class AuthController {
         // 5️⃣ Store all securely
         User user = new User();
         user.setUsername(username);
-        user.setPasswordHash(passwordEncoder.encode(password));  // still use BCrypt for login
+        user.setPasswordHash(passwordEncoder.encode(password)); // still use BCrypt for login
         user.setPublicKey(publicKeyBytes);
         user.setEncryptedPrivateKey(saltedEncryptedPriv);
 
@@ -67,7 +74,6 @@ public class AuthController {
 
         return ResponseEntity.ok(Map.of("message", "User registered successfully"));
     }
-
 
     // login returns JWT
     @PostMapping("/login")
@@ -85,5 +91,22 @@ public class AuthController {
         return ResponseEntity.ok(Map.of("token", token));
     }
 
-}
+    // ✅ NEW ENDPOINT: Get current user info (including encrypted private key)
+    @GetMapping("/me")
+    public ResponseEntity<?> getCurrentUser(@RequestHeader("Authorization") String auth) {
+        String userIdStr = JwtUtil.getUserIdFromAuthHeader(auth);
+        if (userIdStr == null) return ResponseEntity.status(401).body("invalid token");
 
+        UUID userId = UUID.fromString(userIdStr);
+        var opt = userRepository.findById(userId);
+        if (opt.isEmpty()) return ResponseEntity.notFound().build();
+
+        User user = opt.get();
+        return ResponseEntity.ok(Map.of(
+                "id", user.getId().toString(),
+                "username", user.getUsername(),
+                "publicKey", Base64.getEncoder().encodeToString(user.getPublicKey()),
+                "encryptedPrivateKey", Base64.getEncoder().encodeToString(user.getEncryptedPrivateKey())
+        ));
+    }
+}
