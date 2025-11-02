@@ -1,0 +1,611 @@
+[IJ]-3-ProjectDiscoveryStarted-[IJ]-id=unknown
+[[1;34mINFO[m] Scanning for projects...
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-parent:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-dependencies:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.activemq:activemq-bom:pom:6.1.8-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.activemq:artemis-bom:pom:2.40.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.activemq:artemis-project:pom:2.40.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:33-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.assertj:assertj-bom:pom:3.27.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.zipkin.reporter2:zipkin-reporter-bom:pom:3.5.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.zipkin.brave:brave-bom:pom:6.1.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.cassandra:java-driver-bom:pom:4.19.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.glassfish.jaxb:jaxb-bom:pom:4.0.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.ee4j:project:pom:1.0.9-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.groovy:groovy-bom:pom:4.0.29-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.infinispan:infinispan-bom:pom:15.2.6.Final-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.infinispan:infinispan-build-configuration-parent:pom:15.2.6.Final-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson:jackson-bom:pom:2.19.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson:jackson-parent:pom:2.19.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml:oss-parent:pom:69-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.glassfish.jersey:jersey-bom:pom:3.1.11-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.jetty.ee10:jetty-ee10-bom:pom:12.0.29-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.jetty:jetty-bom:pom:12.0.29-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.12.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jetbrains.kotlin:kotlin-bom:pom:1.9.25-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jetbrains.kotlinx:kotlinx-coroutines-bom:pom:1.8.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jetbrains.kotlinx:kotlinx-serialization-bom:pom:1.6.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.logging.log4j:log4j-bom:pom:2.24.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.logging:logging-parent:pom:11.3.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.micrometer:micrometer-bom:pom:1.15.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.micrometer:micrometer-tracing-bom:pom:1.5.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.mockito:mockito-bom:pom:5.17.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.mongodb:mongodb-driver-bom:pom:5.5.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.netty:netty-bom:pom:4.1.128.Final-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.oss:oss-parent:pom:7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.opentelemetry:opentelemetry-bom:pom:1.49.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.prometheus:prometheus-metrics-bom:pom:1.3.10-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.prometheus:client_java_parent:pom:1.3.10-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.prometheus:simpleclient_bom:pom:0.16.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.prometheus:parent:pom:0.16.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.pulsar:pulsar-bom:pom:4.0.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:35-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.pulsar:pulsar-client-reactive-bom:pom:0.6.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.querydsl:querydsl-bom:pom:5.1.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.projectreactor:reactor-bom:pom:2024.0.11-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.rest-assured:rest-assured-bom:pom:5.5.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.rsocket:rsocket-bom:pom:1.1.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.seleniumhq.selenium:selenium-bom:pom:4.31.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.amqp:spring-amqp-bom:pom:3.2.8-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.batch:spring-batch-bom:pom:5.2.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.data:spring-data-bom:pom:2025.0.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-framework-bom:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.integration:spring-integration-bom:pom:6.5.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.pulsar:spring-pulsar-bom:pom:1.2.11-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.restdocs:spring-restdocs-bom:pom:3.0.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.security:spring-security-bom:pom:6.5.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.session:spring-session-bom:pom:3.5.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.ws:spring-ws-bom:pom:4.1.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.testcontainers:testcontainers-bom:pom:1.21.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-parent:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-dependencies:pom:3.5.7-[IJ]-error=
+[IJ]-3-SessionStarted-[IJ]-id=com.example:milatary:jar:0.0.1-SNAPSHOT-[IJ]-projects=com.example:milatary:0.0.1-SNAPSHOT&&
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-maven-plugin:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-maven-plugin:jar:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-clean-plugin:pom:3.4.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-plugins:pom:43-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-parent:pom:43-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.10.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-clean-plugin:jar:3.4.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-resources-plugin:pom:3.3.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-plugins:pom:39-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-parent:pom:39-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:29-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-resources-plugin:jar:3.3.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-jar-plugin:pom:3.4.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-plugins:pom:42-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-parent:pom:42-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:32-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.10.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-jar-plugin:jar:3.4.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-compiler-plugin:pom:3.14.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-plugins:pom:45-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-parent:pom:45-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.13.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-compiler-plugin:jar:3.14.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-surefire-plugin:pom:3.5.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.surefire:surefire:pom:3.5.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-parent:pom:44-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:34-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.12.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-surefire-plugin:jar:3.5.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-install-plugin:pom:3.1.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-install-plugin:jar:3.1.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-deploy-plugin:pom:3.1.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-deploy-plugin:jar:3.1.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-site-plugin:pom:3.12.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-plugins:pom:36-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-parent:pom:36-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:26-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-site-plugin:jar:3.12.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.mojo:build-helper-maven-plugin:pom:3.6.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.mojo:mojo-parent:pom:91-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.13.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.mojo:build-helper-maven-plugin:jar:3.6.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.cyclonedx:cyclonedx-maven-plugin:pom:2.9.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.11.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.cyclonedx:cyclonedx-maven-plugin:jar:2.9.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.flywaydb:flyway-maven-plugin:pom:11.7.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.flywaydb:flyway-parent:pom:11.7.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.flywaydb:flyway-maven-plugin:jar:11.7.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.github.git-commit-id:git-commit-id-maven-plugin:pom:9.0.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.oss:oss-parent:pom:9-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.github.git-commit-id:git-commit-id-maven-plugin:jar:9.0.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jooq:jooq-codegen-maven:pom:3.19.27-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jooq:jooq-parent:pom:3.19.27-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jooq:jooq-codegen-maven:jar:3.19.27-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jetbrains.kotlin:kotlin-maven-plugin:pom:1.9.25-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jetbrains.kotlin:kotlin-project:pom:1.9.25-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jetbrains.kotlin:kotlin-maven-plugin:jar:1.9.25-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.liquibase:liquibase-maven-plugin:pom:4.31.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.liquibase:liquibase-maven-plugin:jar:4.31.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-antrun-plugin:pom:3.1.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-plugins:pom:34-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-parent:pom:34-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:23-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-antrun-plugin:jar:3.1.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-assembly-plugin:pom:3.7.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-plugins:pom:41-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-parent:pom:41-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:31-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-assembly-plugin:jar:3.7.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-dependency-plugin:pom:3.8.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-dependency-plugin:jar:3.8.1-[IJ]-error=
+[IJ]-3-ProjectStarted-[IJ]-id=com.example:milatary:jar:0.0.1-SNAPSHOT
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------------< [0;36mcom.example:milatary[0;1m >------------------------[m
+[[1;34mINFO[m] [1mBuilding milatary 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m]   from pom.xml
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[IJ]-3-DependencyResolutionRequest-[IJ]-id=com.example:milatary:jar:0.0.1-SNAPSHOT
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-data-jpa:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-core:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-jcl:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-context:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-aop:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-beans:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-expression:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.micrometer:micrometer-observation:pom:1.15.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.micrometer:micrometer-commons:pom:1.15.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-autoconfigure:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-logging:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=ch.qos.logback:logback-classic:pom:1.5.20-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=ch.qos.logback:logback-parent:pom:1.5.20-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=ch.qos.logback:logback-core:pom:1.5.20-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.slf4j:slf4j-api:pom:2.0.17-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.slf4j:slf4j-parent:pom:2.0.17-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.slf4j:slf4j-bom:pom:2.0.17-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.logging.log4j:log4j-to-slf4j:pom:2.24.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.logging.log4j:log4j:pom:2.24.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.logging.log4j:log4j-bom:pom:2.24.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.groovy:groovy-bom:pom:4.0.22-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson:jackson-bom:pom:2.17.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson:jackson-parent:pom:2.17-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml:oss-parent:pom:58-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=jakarta.platform:jakarta.jakartaee-bom:pom:9.1.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=jakarta.platform:jakartaee-api-parent:pom:9.1.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.ee4j:project:pom:1.0.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.mockito:mockito-bom:pom:4.11.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-framework-bom:pom:5.3.39-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.logging.log4j:log4j-api:pom:2.24.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.slf4j:jul-to-slf4j:pom:2.0.17-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=jakarta.annotation:jakarta.annotation-api:pom:2.1.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.yaml:snakeyaml:pom:2.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-jdbc:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.zaxxer:HikariCP:pom:6.3.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-jdbc:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-tx:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.hibernate.orm:hibernate-core:pom:6.6.33.Final-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=jakarta.persistence:jakarta.persistence-api:pom:3.1.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=jakarta.transaction:jakarta.transaction-api:pom:2.0.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.ee4j:project:pom:1.0.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jboss.logging:jboss-logging:pom:3.6.1.Final-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jboss.logging:logging-parent:pom:1.0.3.Final-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jboss:jboss-parent:pom:42-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.11.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.hibernate.common:hibernate-commons-annotations:pom:7.0.3.Final-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.smallrye:jandex:pom:3.2.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.smallrye:jandex-parent:pom:3.2.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.smallrye:smallrye-build-parent:pom:42-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml:classmate:pom:1.7.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml:oss-parent:pom:68-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=net.bytebuddy:byte-buddy:pom:1.17.8-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=net.bytebuddy:byte-buddy-parent:pom:1.17.8-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=jakarta.xml.bind:jakarta.xml.bind-api:pom:4.0.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=jakarta.xml.bind:jakarta.xml.bind-api-parent:pom:4.0.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=jakarta.activation:jakarta.activation-api:pom:2.1.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.glassfish.jaxb:jaxb-runtime:pom:4.0.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.sun.xml.bind.mvn:jaxb-runtime-parent:pom:4.0.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.sun.xml.bind.mvn:jaxb-parent:pom:4.0.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.sun.xml.bind:jaxb-bom-ext:pom:4.0.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.glassfish.jaxb:jaxb-bom:pom:4.0.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.glassfish.jaxb:jaxb-core:pom:4.0.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.angus:angus-activation:pom:2.0.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.angus:angus-activation-project:pom:2.0.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.glassfish.jaxb:txw2:pom:4.0.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.sun.xml.bind.mvn:jaxb-txw-parent:pom:4.0.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.sun.istack:istack-commons-runtime:pom:4.1.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.sun.istack:istack-commons:pom:4.1.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=jakarta.inject:jakarta.inject-api:pom:2.0.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.antlr:antlr4-runtime:pom:4.13.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.antlr:antlr4-master:pom:4.13.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.data:spring-data-jpa:pom:3.5.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.data:spring-data-jpa-parent:pom:3.5.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.data.build:spring-data-parent:pom:3.5.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.data.build:spring-data-build:pom:3.5.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.testcontainers:testcontainers-bom:pom:1.20.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jetbrains.kotlinx:kotlinx-coroutines-bom:pom:1.9.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson:jackson-bom:pom:2.19.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson:jackson-parent:pom:2.19-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml:oss-parent:pom:65-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.data:spring-data-commons:pom:3.5.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-orm:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-aspects:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.aspectj:aspectjweaver:pom:1.9.24-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-security:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.security:spring-security-config:pom:6.5.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.security:spring-security-core:pom:6.5.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.security:spring-security-crypto:pom:6.5.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.security:spring-security-web:pom:6.5.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-web:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-validation:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.tomcat.embed:tomcat-embed-el:pom:10.1.48-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.hibernate.validator:hibernate-validator:pom:8.0.3.Final-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=jakarta.validation:jakarta.validation-api:pom:3.0.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.jsonwebtoken:jjwt-api:pom:0.12.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.jsonwebtoken:jjwt-root:pom:0.12.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.jsonwebtoken:jjwt-impl:pom:0.12.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.jsonwebtoken:jjwt-jackson:pom:0.12.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson.core:jackson-databind:pom:2.19.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson:jackson-base:pom:2.19.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson:jackson-bom:pom:2.19.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.11.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson.core:jackson-annotations:pom:2.19.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson.core:jackson-core:pom:2.19.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.bouncycastle:bcprov-jdk15on:pom:1.70-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.projectlombok:lombok:pom:1.18.38-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-web:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-json:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson.datatype:jackson-datatype-jdk8:pom:2.19.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson.module:jackson-modules-java8:pom:2.19.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson.datatype:jackson-datatype-jsr310:pom:2.19.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson.module:jackson-module-parameter-names:pom:2.19.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-tomcat:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.tomcat.embed:tomcat-embed-core:pom:10.1.48-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.tomcat.embed:tomcat-embed-websocket:pom:10.1.48-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-webmvc:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.postgresql:postgresql:pom:42.7.8-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.checkerframework:checker-qual:pom:3.49.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-test:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-test:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-test:pom:6.2.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-test-autoconfigure:pom:3.5.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.jayway.jsonpath:json-path:pom:2.9.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=net.minidev:json-smart:pom:2.5.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=net.minidev:accessors-smart:pom:2.5.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.ow2.asm:asm:pom:9.7.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.ow2:ow2:pom:1.5.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.assertj:assertj-core:pom:3.27.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.awaitility:awaitility:pom:4.2.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.awaitility:awaitility-parent:pom:4.2.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.hamcrest:hamcrest:pom:3.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit.jupiter:junit-jupiter:pom:5.12.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit.jupiter:junit-jupiter-api:pom:5.12.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.opentest4j:opentest4j:pom:1.3.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit.platform:junit-platform-commons:pom:1.12.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apiguardian:apiguardian-api:pom:1.1.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit.jupiter:junit-jupiter-params:pom:5.12.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit.jupiter:junit-jupiter-engine:pom:5.12.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit.platform:junit-platform-engine:pom:1.12.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.mockito:mockito-core:pom:5.17.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=net.bytebuddy:byte-buddy-agent:pom:1.17.8-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.objenesis:objenesis:pom:3.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.objenesis:objenesis-parent:pom:3.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.mockito:mockito-junit-jupiter:pom:5.17.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.skyscreamer:jsonassert:pom:1.5.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.vaadin.external.google:android-json:pom:0.0.20131108.vaadin1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.xmlunit:xmlunit-core:pom:2.10.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.xmlunit:xmlunit-parent:pom:2.10.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.security:spring-security-test:pom:6.5.6-[IJ]-error=
+[IJ]-3-DependencyResolutionResult-[IJ]-error=
+[IJ]-3-MojoStarted-[IJ]-source=CLI-[IJ]-goal=tree-[IJ]-id=com.example:milatary:jar:0.0.1-SNAPSHOT-[IJ]-error=
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mdependency:3.8.1:tree[m [1m(default-cli)[m @ [36mmilatary[0;1m ---[m
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-dependency-plugin:pom:3.8.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-sink-api:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.11.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.reporting:maven-reporting-api:pom:4.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-shared-components:pom:43-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.reporting:maven-reporting-impl:pom:4.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-shared-utils:pom:3.4.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-shared-components:pom:39-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.slf4j:slf4j-api:pom:1.7.36-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.slf4j:slf4j-parent:pom:1.7.36-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-io:commons-io:pom:2.11.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:52-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.7.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-site-model:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-sitetools:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.sisu:org.eclipse.sisu.plexus:pom:0.9.0.M3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.sisu:sisu-inject:pom:0.9.0.M3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.sisu:org.eclipse.sisu.inject:pom:0.9.0.M3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-component-annotations:pom:2.1.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-containers:pom:2.1.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus:pom:5.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-classworlds:pom:2.6.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-utils:pom:4.0.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus:pom:17-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-xml:pom:3.0.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus:pom:18-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=javax.inject:javax.inject:pom:1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-core:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-io:commons-io:pom:2.17.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:74-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-text:pom:1.12.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:69-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-lang3:pom:3.14.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:64-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:30-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.10.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-lang3:pom:3.17.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:73-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-integration-tools:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-i18n:pom:1.0-beta-10-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-components:pom:1.1.12-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus:pom:1.0.10-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-interpolation:pom:1.27-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus:pom:16-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.10.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-site-renderer:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-skin-model:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-module-xhtml5:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-modules:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-velocity:pom:2.2.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus:pom:19-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.velocity:velocity-engine-core:pom:2.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.velocity:velocity-engine-parent:pom:2.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.velocity:velocity-master:pom:7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.velocity.tools:velocity-tools-generic:pom:3.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.velocity.tools:velocity-tools-parent:pom:3.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.velocity:velocity-master:pom:4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.velocity:velocity-engine-core:pom:2.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.velocity:velocity-engine-parent:pom:2.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-lang3:pom:3.11-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:51-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.slf4j:slf4j-api:pom:1.7.30-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.slf4j:slf4j-parent:pom:1.7.30-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-beanutils:commons-beanutils:pom:1.9.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:47-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:19-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-logging:commons-logging:pom:1.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:34-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:13-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-collections:commons-collections:pom:3.2.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:39-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:16-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-digester3:pom:3.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:22-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:9-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-beanutils:commons-beanutils:pom:1.8.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:14-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-logging:commons-logging:pom:1.1.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-lang3:pom:3.10-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:50-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:21-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.github.cliftonlabs:json-simple:pom:3.0.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-module-apt:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-module-xdoc:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-archiver:pom:3.6.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-shared-components:pom:41-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-archiver:pom:4.9.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-io:pom:3.4.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-io:commons-io:pom:2.15.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:65-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-compress:pom:1.26.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:66-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-codec:commons-codec:pom:1.16.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.iq80.snappy:snappy:pom:0.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.tukaani:xz:pom:1.9-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.github.luben:zstd-jni:pom:1.5.5-11-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.resolver:maven-resolver-api:pom:1.4.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.resolver:maven-resolver:pom:1.4.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-parent:pom:33-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-archiver:pom:4.10.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-io:pom:3.5.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-io:commons-io:pom:2.16.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-compress:pom:1.26.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-codec:commons-codec:pom:1.17.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.airlift:aircompressor:pom:0.27-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.airlift:airbase:pom:112-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.8.0-M1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.github.luben:zstd-jni:pom:1.5.6-3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-io:pom:3.5.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-dependency-analyzer:pom:1.15.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.ow2.asm:asm:pom:9.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-dependency-tree:pom:3.3.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-shared-components:pom:42-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.resolver:maven-resolver-util:pom:1.4.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-common-artifact-filters:pom:3.4.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-artifact-transfer:pom:0.13.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-shared-components:pom:34-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-component-annotations:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-containers:pom:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-common-artifact-filters:pom:3.1.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-shared-components:pom:33-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-model:pom:3.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven:pom:3.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-parent:pom:15-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-plugin-api:pom:3.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.sisu:sisu-inject-plexus:pom:1.4.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.sisu.inject:guice-plexus:pom:1.4.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.sisu.inject:guice-bean:pom:1.4.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.sisu:sisu-inject:pom:1.4.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.sisu:sisu-parent:pom:1.4.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.forge:forge-parent:pom:6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-component-annotations:pom:1.5.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-containers:pom:1.5.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus:pom:2.0.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-classworlds:pom:2.2.3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus:pom:2.0.6-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.sisu:sisu-inject-bean:pom:1.4.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.sisu:sisu-guice:pom:2.1.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-shared-utils:pom:3.1.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-shared-components:pom:30-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-parent:pom:30-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:18-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-io:commons-io:pom:2.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.slf4j:slf4j-api:pom:1.7.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.slf4j:slf4j-parent:pom:1.7.5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.plexus:plexus-build-api:pom:0.0.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.spice:spice-parent:pom:15-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.forge:forge-parent:pom:5-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.plugins:maven-dependency-plugin:jar:3.8.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-sink-api:jar:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.reporting:maven-reporting-api:jar:4.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.reporting:maven-reporting-impl:jar:4.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-site-model:jar:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-core:jar:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-text:jar:1.12.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-integration-tools:jar:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-interpolation:jar:1.27-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-site-renderer:jar:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-skin-model:jar:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-module-xhtml5:jar:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-velocity:jar:2.2.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.velocity:velocity-engine-core:jar:2.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.velocity.tools:velocity-tools-generic:jar:3.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-beanutils:commons-beanutils:jar:1.9.4-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-logging:commons-logging:jar:1.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-collections:commons-collections:jar:3.2.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-digester3:jar:3.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.github.cliftonlabs:json-simple:jar:3.0.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-module-apt:jar:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.doxia:doxia-module-xdoc:jar:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven:maven-archiver:jar:3.6.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.resolver:maven-resolver-api:jar:1.4.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.sisu:org.eclipse.sisu.plexus:jar:0.9.0.M3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.sisu:org.eclipse.sisu.inject:jar:0.9.0.M3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-classworlds:jar:2.6.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-archiver:jar:4.10.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=javax.inject:javax.inject:jar:1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-io:commons-io:jar:2.16.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-compress:jar:1.26.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=commons-codec:commons-codec:jar:1.17.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.airlift:aircompressor:jar:0.27-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.tukaani:xz:jar:1.9-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.github.luben:zstd-jni:jar:1.5.6-3-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-lang3:jar:3.17.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-utils:jar:4.0.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-xml:jar:3.0.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-io:jar:3.5.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-i18n:jar:1.0-beta-10-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-dependency-analyzer:jar:1.15.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.ow2.asm:asm:jar:9.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-dependency-tree:jar:3.3.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-common-artifact-filters:jar:3.4.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-artifact-transfer:jar:0.13.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.codehaus.plexus:plexus-component-annotations:jar:2.0.0-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.shared:maven-shared-utils:jar:3.4.2-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.maven.resolver:maven-resolver-util:jar:1.4.1-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.plexus:plexus-build-api:jar:0.0.7-[IJ]-error=
+[IJ]-3-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.slf4j:slf4j-api:jar:1.7.36-[IJ]-error=
+[[1;34mINFO[m] com.example:milatary:jar:0.0.1-SNAPSHOT
+[[1;34mINFO[m] +- org.springframework.boot:spring-boot-starter-data-jpa:jar:3.5.7:compile
+[[1;34mINFO[m] |  +- org.springframework.boot:spring-boot-starter:jar:3.5.7:compile
+[[1;34mINFO[m] |  |  +- org.springframework.boot:spring-boot:jar:3.5.7:compile
+[[1;34mINFO[m] |  |  +- org.springframework.boot:spring-boot-autoconfigure:jar:3.5.7:compile
+[[1;34mINFO[m] |  |  +- org.springframework.boot:spring-boot-starter-logging:jar:3.5.7:compile
+[[1;34mINFO[m] |  |  |  +- ch.qos.logback:logback-classic:jar:1.5.20:compile
+[[1;34mINFO[m] |  |  |  |  \- ch.qos.logback:logback-core:jar:1.5.20:compile
+[[1;34mINFO[m] |  |  |  +- org.apache.logging.log4j:log4j-to-slf4j:jar:2.24.3:compile
+[[1;34mINFO[m] |  |  |  |  \- org.apache.logging.log4j:log4j-api:jar:2.24.3:compile
+[[1;34mINFO[m] |  |  |  \- org.slf4j:jul-to-slf4j:jar:2.0.17:compile
+[[1;34mINFO[m] |  |  +- jakarta.annotation:jakarta.annotation-api:jar:2.1.1:compile
+[[1;34mINFO[m] |  |  \- org.yaml:snakeyaml:jar:2.4:compile
+[[1;34mINFO[m] |  +- org.springframework.boot:spring-boot-starter-jdbc:jar:3.5.7:compile
+[[1;34mINFO[m] |  |  +- com.zaxxer:HikariCP:jar:6.3.3:compile
+[[1;34mINFO[m] |  |  \- org.springframework:spring-jdbc:jar:6.2.12:compile
+[[1;34mINFO[m] |  +- org.hibernate.orm:hibernate-core:jar:6.6.33.Final:compile
+[[1;34mINFO[m] |  |  +- jakarta.persistence:jakarta.persistence-api:jar:3.1.0:compile
+[[1;34mINFO[m] |  |  +- jakarta.transaction:jakarta.transaction-api:jar:2.0.1:compile
+[[1;34mINFO[m] |  |  +- org.jboss.logging:jboss-logging:jar:3.6.1.Final:compile
+[[1;34mINFO[m] |  |  +- org.hibernate.common:hibernate-commons-annotations:jar:7.0.3.Final:runtime
+[[1;34mINFO[m] |  |  +- io.smallrye:jandex:jar:3.2.0:runtime
+[[1;34mINFO[m] |  |  +- com.fasterxml:classmate:jar:1.7.1:compile
+[[1;34mINFO[m] |  |  +- net.bytebuddy:byte-buddy:jar:1.17.8:runtime
+[[1;34mINFO[m] |  |  +- org.glassfish.jaxb:jaxb-runtime:jar:4.0.6:runtime
+[[1;34mINFO[m] |  |  |  \- org.glassfish.jaxb:jaxb-core:jar:4.0.6:runtime
+[[1;34mINFO[m] |  |  |     +- org.eclipse.angus:angus-activation:jar:2.0.3:runtime
+[[1;34mINFO[m] |  |  |     +- org.glassfish.jaxb:txw2:jar:4.0.6:runtime
+[[1;34mINFO[m] |  |  |     \- com.sun.istack:istack-commons-runtime:jar:4.1.2:runtime
+[[1;34mINFO[m] |  |  +- jakarta.inject:jakarta.inject-api:jar:2.0.1:runtime
+[[1;34mINFO[m] |  |  \- org.antlr:antlr4-runtime:jar:4.13.0:compile
+[[1;34mINFO[m] |  +- org.springframework.data:spring-data-jpa:jar:3.5.5:compile
+[[1;34mINFO[m] |  |  +- org.springframework.data:spring-data-commons:jar:3.5.5:compile
+[[1;34mINFO[m] |  |  +- org.springframework:spring-orm:jar:6.2.12:compile
+[[1;34mINFO[m] |  |  +- org.springframework:spring-context:jar:6.2.12:compile
+[[1;34mINFO[m] |  |  +- org.springframework:spring-tx:jar:6.2.12:compile
+[[1;34mINFO[m] |  |  +- org.springframework:spring-beans:jar:6.2.12:compile
+[[1;34mINFO[m] |  |  \- org.slf4j:slf4j-api:jar:2.0.17:compile
+[[1;34mINFO[m] |  \- org.springframework:spring-aspects:jar:6.2.12:compile
+[[1;34mINFO[m] |     \- org.aspectj:aspectjweaver:jar:1.9.24:compile
+[[1;34mINFO[m] +- org.springframework.boot:spring-boot-starter-security:jar:3.5.7:compile
+[[1;34mINFO[m] |  +- org.springframework:spring-aop:jar:6.2.12:compile
+[[1;34mINFO[m] |  +- org.springframework.security:spring-security-config:jar:6.5.6:compile
+[[1;34mINFO[m] |  \- org.springframework.security:spring-security-web:jar:6.5.6:compile
+[[1;34mINFO[m] |     \- org.springframework:spring-expression:jar:6.2.12:compile
+[[1;34mINFO[m] +- org.springframework.boot:spring-boot-starter-validation:jar:3.5.7:compile
+[[1;34mINFO[m] |  +- org.apache.tomcat.embed:tomcat-embed-el:jar:10.1.48:compile
+[[1;34mINFO[m] |  \- org.hibernate.validator:hibernate-validator:jar:8.0.3.Final:compile
+[[1;34mINFO[m] |     \- jakarta.validation:jakarta.validation-api:jar:3.0.2:compile
+[[1;34mINFO[m] +- io.jsonwebtoken:jjwt-api:jar:0.12.6:compile
+[[1;34mINFO[m] +- io.jsonwebtoken:jjwt-impl:jar:0.12.6:runtime
+[[1;34mINFO[m] +- io.jsonwebtoken:jjwt-jackson:jar:0.12.6:runtime
+[[1;34mINFO[m] |  \- com.fasterxml.jackson.core:jackson-databind:jar:2.19.2:compile
+[[1;34mINFO[m] |     +- com.fasterxml.jackson.core:jackson-annotations:jar:2.19.2:compile
+[[1;34mINFO[m] |     \- com.fasterxml.jackson.core:jackson-core:jar:2.19.2:compile
+[[1;34mINFO[m] +- org.bouncycastle:bcprov-jdk15on:jar:1.70:compile
+[[1;34mINFO[m] +- org.projectlombok:lombok:jar:1.18.38:compile
+[[1;34mINFO[m] +- org.springframework.boot:spring-boot-starter-web:jar:3.5.7:compile
+[[1;34mINFO[m] |  +- org.springframework.boot:spring-boot-starter-json:jar:3.5.7:compile
+[[1;34mINFO[m] |  |  +- com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.19.2:compile
+[[1;34mINFO[m] |  |  +- com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.19.2:compile
+[[1;34mINFO[m] |  |  \- com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.19.2:compile
+[[1;34mINFO[m] |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:3.5.7:compile
+[[1;34mINFO[m] |  |  +- org.apache.tomcat.embed:tomcat-embed-core:jar:10.1.48:compile
+[[1;34mINFO[m] |  |  \- org.apache.tomcat.embed:tomcat-embed-websocket:jar:10.1.48:compile
+[[1;34mINFO[m] |  +- org.springframework:spring-web:jar:6.2.12:compile
+[[1;34mINFO[m] |  |  \- io.micrometer:micrometer-observation:jar:1.15.5:compile
+[[1;34mINFO[m] |  |     \- io.micrometer:micrometer-commons:jar:1.15.5:compile
+[[1;34mINFO[m] |  \- org.springframework:spring-webmvc:jar:6.2.12:compile
+[[1;34mINFO[m] +- org.postgresql:postgresql:jar:42.7.8:runtime
+[[1;34mINFO[m] |  \- org.checkerframework:checker-qual:jar:3.49.5:runtime
+[[1;34mINFO[m] +- org.springframework.boot:spring-boot-starter-test:jar:3.5.7:test
+[[1;34mINFO[m] |  +- org.springframework.boot:spring-boot-test:jar:3.5.7:test
+[[1;34mINFO[m] |  +- org.springframework.boot:spring-boot-test-autoconfigure:jar:3.5.7:test
+[[1;34mINFO[m] |  +- com.jayway.jsonpath:json-path:jar:2.9.0:test
+[[1;34mINFO[m] |  +- jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:runtime
+[[1;34mINFO[m] |  |  \- jakarta.activation:jakarta.activation-api:jar:2.1.4:runtime
+[[1;34mINFO[m] |  +- net.minidev:json-smart:jar:2.5.2:test
+[[1;34mINFO[m] |  |  \- net.minidev:accessors-smart:jar:2.5.2:test
+[[1;34mINFO[m] |  |     \- org.ow2.asm:asm:jar:9.7.1:test
+[[1;34mINFO[m] |  +- org.assertj:assertj-core:jar:3.27.6:test
+[[1;34mINFO[m] |  +- org.awaitility:awaitility:jar:4.2.2:test
+[[1;34mINFO[m] |  +- org.hamcrest:hamcrest:jar:3.0:test
+[[1;34mINFO[m] |  +- org.junit.jupiter:junit-jupiter:jar:5.12.2:test
+[[1;34mINFO[m] |  |  +- org.junit.jupiter:junit-jupiter-api:jar:5.12.2:test
+[[1;34mINFO[m] |  |  |  +- org.opentest4j:opentest4j:jar:1.3.0:test
+[[1;34mINFO[m] |  |  |  +- org.junit.platform:junit-platform-commons:jar:1.12.2:test
+[[1;34mINFO[m] |  |  |  \- org.apiguardian:apiguardian-api:jar:1.1.2:test
+[[1;34mINFO[m] |  |  +- org.junit.jupiter:junit-jupiter-params:jar:5.12.2:test
+[[1;34mINFO[m] |  |  \- org.junit.jupiter:junit-jupiter-engine:jar:5.12.2:test
+[[1;34mINFO[m] |  |     \- org.junit.platform:junit-platform-engine:jar:1.12.2:test
+[[1;34mINFO[m] |  +- org.mockito:mockito-core:jar:5.17.0:test
+[[1;34mINFO[m] |  |  +- net.bytebuddy:byte-buddy-agent:jar:1.17.8:test
+[[1;34mINFO[m] |  |  \- org.objenesis:objenesis:jar:3.3:test
+[[1;34mINFO[m] |  +- org.mockito:mockito-junit-jupiter:jar:5.17.0:test
+[[1;34mINFO[m] |  +- org.skyscreamer:jsonassert:jar:1.5.3:test
+[[1;34mINFO[m] |  |  \- com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test
+[[1;34mINFO[m] |  +- org.springframework:spring-core:jar:6.2.12:compile
+[[1;34mINFO[m] |  |  \- org.springframework:spring-jcl:jar:6.2.12:compile
+[[1;34mINFO[m] |  +- org.springframework:spring-test:jar:6.2.12:test
+[[1;34mINFO[m] |  \- org.xmlunit:xmlunit-core:jar:2.10.4:test
+[[1;34mINFO[m] \- org.springframework.security:spring-security-test:jar:6.5.6:test
+[[1;34mINFO[m]    \- org.springframework.security:spring-security-core:jar:6.5.6:compile
+[[1;34mINFO[m]       \- org.springframework.security:spring-security-crypto:jar:6.5.6:compile
+[IJ]-3-MojoSucceeded-[IJ]-source=CLI-[IJ]-goal=tree-[IJ]-id=com.example:milatary:jar:0.0.1-SNAPSHOT-[IJ]-error=
+[IJ]-3-ProjectSucceeded-[IJ]-id=com.example:milatary:jar:0.0.1-SNAPSHOT
+[IJ]-3-SessionEnded-[IJ]-id=unknown
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  2.819 s
+[[1;34mINFO[m] Finished at: 2025-11-01T21:21:27+05:30
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m

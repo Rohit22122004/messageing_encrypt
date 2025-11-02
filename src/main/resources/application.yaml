@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/militarydb
+    username: postgres
+    password: 2745
+    hikari:
+      auto-commit: false
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+
+
+message:
+  default-ttl-minutes: 60  # messages expire after 60 minutes by default
